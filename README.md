@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my profile!
 
-<!--
-**tegarpenemuanr3/tegarpenemuanr3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am currently as a student in Amikom Purwokerto University**
 
-Here are some ideas to get you started:
+Coding is my ninja path. enjoy learning new things. problem is life and never give up. I love linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**My Blog**
+http://lebahcoding.blogspot.com/
+
+**My Youtube**
+https://www.youtube.com/channel/UCNhGq9wc-44yjmg7GW1lRRA
+
+Skills: web programming(HTML, CSS, JS, PHP) and Android Programming(Java).
+
+- 🔭 I’m currently working on Youtuber
+- 🌱 I’m currently learning Web Programming CI4 and Laravel
+- 😄 Pronouns: Jangan lupa Ibadah, Makan dan Ngoding.
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tegarpenemuanr3&show_icons=true&include_all_commits=true&theme=radical" alt="tegarpenemuanr3's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarpenemuanr3&layout=compact&theme=radical" />
