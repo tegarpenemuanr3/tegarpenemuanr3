@@ -12,7 +12,6 @@ https://www.youtube.com/channel/UCNhGq9wc-44yjmg7GW1lRRA
 
 Skills: web programming(HTML, CSS, JS, PHP) and Android Programming(Java).
 
-- 🔭 I’m currently working on Youtuber
 - 🌱 I’m currently learning Web Programming CI4 and Laravel
 - 😄 Pronouns: Jangan lupa Ibadah, Makan dan Ngoding.
 
